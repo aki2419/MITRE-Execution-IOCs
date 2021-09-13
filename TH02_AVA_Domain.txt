@@ -1698,11 +1698,9 @@ chishir.com
 mangoclone.com
 onixcellent.com
 ipecho.net
-api.ipify.org
 checkip.amazonaws.com
 ip.anysrc.net
 wtfismyip.com
-ipinfo.io
 icanhazip.com
 myexternalip.com
 ident.me
