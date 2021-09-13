@@ -706,7 +706,6 @@ onlinemail.kz
 msdn.cloud
 search-bing.site
 droobox.online
-t2m.io
 brevini-france.cf
 onedrivenet.xyz
 diamondfoxpanel.ml
@@ -1698,8 +1697,6 @@ chishir.com
 mangoclone.com
 onixcellent.com
 ip.anysrc.net
-myexternalip.com
-ident.me
 updatemanagir.us
 cmdupdatewin.com
 scrservallinst.info
